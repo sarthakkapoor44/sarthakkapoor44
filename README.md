@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td style="width: 33%;">
-      <a href="https://github.com/himanshu-skid19/GoogleVertexAIHackathon">
+      <a href="https://github.com/himanshu-skid19/google-vertex-ai-hackathon">
         <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/career.png" alt="LLM powered Career Advisor and Interviewer" style="width: 100%; max-width: 300px; height: auto;">
         <p align="center"><b>LLM powered Career Advisor and Interviewer</b></p>
       </a>
