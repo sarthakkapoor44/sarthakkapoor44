@@ -57,19 +57,21 @@
     <td style="width: 33%;">
       <a href="https://github.com/sarthakkapoor44/DBMS-with-C">
         <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/dbms2.png" alt="DBMS Using C" style="width: 100%; max-width: 300px; height: auto;">
-        <p align="center"><b>DBMS Using C</b></a></p>
-      </a>
+	</a>
+	<a href="https://github.com/sarthakkapoor44/DBMS-with-C">
+		<p align="center"><b>DBMS Using C</b></p>
+	</a>
     </td>
     <td style="width: 33%;">
       <a href="https://github.com/sarthakkapoor44/Unconditional_image_generation_using_diffusion_model">
         <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/image.png" alt="Unconditional Image Generation using Diffusion model" style="width: 100%; max-width: 300px; height: auto;">
-        <p align="center"><b>Unconditional Image Generation using Diffusion model</b></a></p>
+        <p align="center"><b>Unconditional Image Generation using Diffusion model</b></p>
       </a>
     </td>
     <td style="width: 33%;">
       <a href="https://github.com/sarthakkapoor44/Inter_iit_12.0">
         <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/btc.png" alt="Algorithmic Trading Strategy on BTC/USDT market" style="width: 100%; max-width: 300px; height: auto;">
-        <p align="center"><b>Algorithmic Trading Strategy on BTC/USDT market</b></a></p>
+        <p align="center"><b>Algorithmic Trading Strategy on BTC/USDT market</b></p>
       </a>
     </td>
   </tr>
@@ -77,13 +79,13 @@
     <td style="width: 33%;">
       <a href="https://github.com/himanshu-skid19/GoogleVertexAIHackathon">
         <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/career.png" alt="LLM powered Career Advisor and Interviewer" style="width: 100%; max-width: 300px; height: auto;">
-        <p align="center"><b>LLM powered Career Advisor and Interviewer</b></a></p>
+        <p align="center"><b>LLM powered Career Advisor and Interviewer</b></p>
       </a>
     </td>
     <td style="width: 33%;">
       <a href="https://github.com/sarthakkapoor44/Pairs-Trading">
         <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/pairs.png" alt="Pairs Trading" style="width: 100%; max-width: 300px; height: auto;">
-        <p align="center"><b>Pairs Trading</b></a></p>
+        <p align="center"><b>Pairs Trading</b></p>
       </a>
     </td>
     <td style="width: 33%;"> <!-- This can be left empty or adjusted if you have an odd number of elements -->
