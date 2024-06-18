@@ -48,7 +48,7 @@
 	&emsp;
 	<a href="https://github.com/sarthakkapoor44"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	&emsp;
-	<a href="https://www.linkedin.com/in/arthak-kapoor444/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/sarthak-kapoor444/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
