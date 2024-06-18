@@ -51,7 +51,49 @@
 	<a href="https://www.linkedin.com/in/sarthak-kapoor444/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
+## My Projects
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/sarthakkapoor44/DBMS-with-C">
+        <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/dbms2.png" alt="Project 1" width="300" height="300">
+      </a>
+      <p align="center"><a href="https://github.com/sarthakkapoor44/DBMS-with-C"><b>DBMS Using C </b></a></p>
+    </td>
+    <td>
+      <a href="https://github.com/sarthakkapoor44/Unconditional_image_generation_using_diffusion_model">
+        <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/image.png" alt=" " width="300" height="300">
+      </a>
+      <p align="center"><a href="https://github.com/sarthakkapoor44/Unconditional-Image-Generation-Using-a-Diffusion-model"><b>
+	      Unconditional-Image-Generation using Diffusion model
+      </b></a></p>
+    </td>
+    <td>
+      <a href="https://github.com/sarthakkapoor44/Inter_iit_12.0">
+        <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/btc.png" alt="Project 3" width="300" height="300">
+      </a>
+      <p align="center"><a href="https://github.com/sarthakkapoor44/Inter_iit_12.0"><b>Algorithmic Trading Strategy on BTC/USDT market</b>
+      </a></p>
+    </td>
+  </tr>
+	<tr>
+	<td>
+      <a href="https://github.com/himanshu-skid19/GoogleVertexAIHackathon">
+        <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/career.png" alt="Project 3" width="300" height="300">
+      </a>
+      <p align="center"><a href="https://github.com/himanshu-skid19/GoogleVertexAIHackathon"><b>LLM powered Career Advisor and Interviewer</b>
+      </a></p>
+    </td>
+	<td>
+      <a href="https://github.com/sarthakkapoor44/Pairs-Trading">
+        <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/pairs.png" alt="Project 3" width="300" height="300">
+      </a>
+      <p align="center"><a href="https://github.com/sarthakkapoor44/Pairs-Trading"><b>Pairs Trading</b>
+      </a></p>
+    </td>
+	</tr>
+</table>
 
 ## 🛠️ My Skills
 
@@ -182,34 +224,6 @@
 <br> 
 
 ---
-
-### My Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/yourusername/project1">
-        <img src="https://via.placeholder.com/300" alt="Project 1" width="300" height="300">
-      </a>
-      <p align="center"><a href="https://github.com/sarthakkapoor44/DBMS-with-C"><b>DBMS</b></a></p>
-    </td>
-    <td>
-      <a href="https://github.com/yourusername/project2">
-        <img src="https://github.com/sarthakkapoor44/Unconditional-Image-Generation-Using-a-Diffusion-model" alt=" " width="300" height="300">
-      </a>
-      <p align="center"><a href="https://github.com/sarthakkapoor44/Unconditional-Image-Generation-Using-a-Diffusion-model"><b>
-	      Unconditional-Image-Generation using Diffusion model
-      </b></a></p>
-    </td>
-    <td>
-      <a href="https://github.com/yourusername/project3">
-        <img src="https://via.placeholder.com/300" alt="Project 3" width="300" height="300">
-      </a>
-      <p align="center"><a href="https://github.com/yourusername/project3"><b>Algorithmic Trading Strategy on BTC/USDT market</b>
-      </a></p>
-    </td>
-  </tr>
-</table>
 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
